@@ -1,0 +1,13 @@
+root@760e3e4c2e92:/# cd /root
+root@760e3e4c2e92:/# mkdir c
+root@760e3e4c2e92:/# mkdir bash
+root@760e3e4c2e92:/# mkdir js
+root@760e3e4c2e92:/# mkdir c/c_is_fun.c
+root@760e3e4c2e92:/# mkdir js/main.js 
+root@760e3e4c2e92:/# mkdir js/index.js
+root@760e3e4c2e92:/# mkdir bash/alx
+root@760e3e4c2e92:/# echo #!/bin/bash
+root@760e3e4c2e92:/# echo "ALX"
+root@760e3e4c2e92:/# mkdir bash/school
+root@760e3e4c2e92:/# echo #!/bin/bash
+root@760e3e4c2e92:/# echo "School"
